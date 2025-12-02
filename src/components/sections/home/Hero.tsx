@@ -9,7 +9,7 @@ import { useState } from 'react';
 import { useSmartNavigation } from '@/hooks/useSmartNavigation';
 
 const DEFAULT_HERO = {
-  title: 'Transform Your Farm with Intelligent Agricultures',
+  title: 'Transform Your Farm with Intelligent Agriculturesss',
   subtitle:
     'Maximize yields, reduce costs, and optimize resources with our AI-powered smart farming platform. Monitor crops, automate irrigation, and make data-driven decisions from anywhere.',
   ctaText: 'Start Free Trial',
